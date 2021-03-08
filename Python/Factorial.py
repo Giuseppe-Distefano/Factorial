@@ -14,4 +14,4 @@ else:
 
 # Output
 res = factorial (num)
-print (num, "! =", res)
+print ("%d! =" %num, res)
